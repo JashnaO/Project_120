@@ -1,0 +1,56 @@
+.bottle {
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+#bottle {
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}
+
+
+
+
+
+.table {
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+#table {
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}
+
+
+
+
+
+.book {
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+#book {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+
+
+
+
+
+.bed {
+    border-radius: 50px;
+    background-color: lightblue;
+}
+
+#bed {
+    width: 150px;
+    height: 200px;
+    text-align: center;
+}
